@@ -1,0 +1,39 @@
+{
+  "data":[
+    {
+      "title": "Comfort",
+      "artist": "Doctor Paa Popo",
+      "url": "https://www.jw.org",
+      "image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Fawurukoa.jpg?alt=media&token=abfb6de6-12ae-4c5f-b280-6afb9604780f",
+      "thumbnail_image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Fawudi.jpg?alt=media&token=43c8cfea-76d2-461e-bdae-91c7ae051b53"
+    },
+    {
+    "title": "Kokooko",
+    "artist": "Daasebre Dwamena",
+    "url": "https://www.jw.org",
+    "image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Fcantonaa.jpg?alt=media&token=c04e1b32-6dad-4dba-9744-732a02c80000",
+    "thumbnail_image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Fawudi.jpg?alt=media&token=43c8cfea-76d2-461e-bdae-91c7ae051b53"
+  },
+  {
+    "title": "Da bi meye Nnipa",
+    "artist": "Daasebre Dwamena",
+    "url": "https://www.jw.org",
+    "image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Fkwame.jpg?alt=media&token=445072e9-4bf5-495d-b025-f0eae642dfef",
+    "thumbnail_image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Feric.jpg?alt=media&token=4d8339e2-87f4-4319-a9db-a0e4714efc60"
+  },
+  {
+    "title": "Just as long as i have you",
+    "artist": "Don Williams",
+    "url": "https://www.jw.org",
+    "image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Fosiabo.jpg?alt=media&token=20b74f93-7f56-4f35-8cea-0ebc26ca9dfc",
+    "thumbnail_image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Feric.jpg?alt=media&token=4d8339e2-87f4-4319-a9db-a0e4714efc60"
+  },
+  {
+    "title": "Maggie",
+    "artist": "Don Williams",
+    "url": "https://www.jw.org",
+    "image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Fokyere.jpg?alt=media&token=97c2fd43-4406-497e-8865-442fad139c4f",
+    "thumbnail_image": "https://firebasestorage.googleapis.com/v0/b/eaoplayer.appspot.com/o/albums%2Fpictures%2Fawudi.jpg?alt=media&token=43c8cfea-76d2-461e-bdae-91c7ae051b53"
+  }
+  ]
+}
